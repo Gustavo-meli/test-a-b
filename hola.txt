@@ -1,2 +1,3 @@
 Test-a-b
 Pequeña aportación a hola.txt
+Esta es una aportación para generar conflictos.
